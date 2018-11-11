@@ -16,8 +16,12 @@ const max = (list) => Math.max(...list);
 
 
 
-/////////////Best Practice///////////
+/////////////Best Practice///////////////
 
 
 const min = (list) => Math.min(...list);
 const max = (list) => Math.max(...list);
+
+
+
+///////////end////////////
